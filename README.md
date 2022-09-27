@@ -1,1 +1,3 @@
-# docs
+# Dokumentation
+
+- [Hygraph](hygraph.md)

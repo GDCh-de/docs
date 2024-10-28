@@ -1,0 +1,25 @@
+{
+  "fee": [
+    {
+      "id": 1,
+      "localization": [
+        {
+          "locale": "de",
+          "name": "Mein Name",
+          "slug": "mein-name",
+          "description": "<p>Meine Beschreibung</p>"
+        },
+        {
+          "locale": "en",
+          "name": "My Name",
+          "slug": "my-name",
+          "description": "<p>My Description</p>"
+        }
+      ],
+      "costs": [
+        { "type": "regular", "amount": 140 },
+        { "type": "student", "amount": 30 }
+      ]
+    }
+  ]
+}

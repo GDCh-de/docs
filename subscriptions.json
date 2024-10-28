@@ -1,0 +1,247 @@
+{
+  "contributionClasses": [
+    {
+      "id": 1,
+      "localization": [
+        {
+          "locale": "de",
+          "name": "Ordentliche Mitglieder",
+          "slug": "ordentliche-mitglieder",
+          "description": "<p>Ordentliche Mitglieder sind: In der Chemie und angrenzenden Gebieten Tätige sowie andere an den chemischen und molekularen Wissenschaften interessierte Personen des In- und Auslands.</p><p>Abkommen GDCh/VAA-Doppelmitgliedschaft<br> <strong>Antrag nur möglich</strong> <strong>in den ersten 5 Jahren nach Eintritt in das Berufsleben</strong>.</p>"
+        },
+        {
+          "locale": "en",
+          "name": "Ordinary members",
+          "slug": "ordinary-members",
+          "description": "<p>Full members are: those working in chemistry and related areas as well as other people at home and abroad interested in chemical and molecular sciences.</p><p>GDCh/VAA dual membership agreement<br> <strong>Application only possible</strong> <strong>in the first 5 years after starting working life</strong>.</p>"
+        }
+      ],
+      "costs": [
+        { "type": "regular", "amount": 140 },
+        { "type": "dual-vaa", "amount": 100 }
+      ]
+    },
+    {
+      "id": 2,
+      "localization": [
+        {
+          "locale": "de",
+          "name": "Ordentliche Doppelmitglieder",
+          "slug": "ordentliche-doppelmitglieder",
+          "description": "<p>Diese Beitragskategorie gilt für Personen, die sowohl der Gesellschaft Deutscher Chemiker als auch einer der nachfolgend genannten Vereinigungen angehören:</p><ul><li>Deutsche Bunsen-Gesellschaft für Physikalische Chemie e.V. (DBG) </li> <li>Gesellschaft für Chemische Technik und Biotechnologie e.V. (DECHEMA)</li> <li>Deutsche Gesellschaft für Galvano- und Oberflächentechnik e.V. (DGO)</li> <li>Gesellschaft für Toxikologische und Forensische Chemie (GTFCh)</li> <li>Deutsche Glastechnische Gesellschaft e.V. (DGG)</li> <li>Deutsche Physikalische Gesellschaft e.V. (DPG)</li> <li>Kerntechnische Gesellschaft e.V. (KTG)</li> <li>Deutsche Vereinigung des Gas- und Wasserfaches e.V. (DVGW)</li> <li>Stahlinstitut (VDEh)</li> <li>Deutsche Vereinigung für Wasserwirtschaft, Abwasser und Abfall (DWA) e.V. </li> <li>Verband der Elektrotechnik, Elektronik und Informationstechnik e.V. (VDE)</li> <li>Deutsche Wissenschaftliche Gesellschaft für nachhaltige Energieträger, Mobilität und Kohlenstoffkreisläufe e.V. (DGMK) </li> <li>Verein Deutscher Gießereifachleute e.V. (VDG)</li> <li>Gesellschaft für Metallurgen und Bergleute e.V. (GDMB)</li> <li>Verein Deutscher Ingenieure (VDI)</li> <li>Gesellschaft für Biochemie und Molekularbiologie (GBM)</li></ul>"
+        },
+        {
+          "locale": "en",
+          "name": "Ordinary double members",
+          "slug": "ordinary-double-members",
+          "description": "<p>This contribution category applies to people who belong to both the German Chemical Society and one of the following associations:</p><ul><li>German Bunsen Society for physical chemistry eV (DBG)</li><li>Society for Chemical Engineering and biotechnology eV (DECHEMA)</li><li>German Society for Electroplating and Surface Technology eV (DGO)</li><li>Society for Toxicological and forensic chemistry (GTFCh)</li><li>German Glass Technology Society eV (DGG)</li><li>German Physical Society eV (DPG)</li><li>Nuclear Technology Society eV (KTG)</li><li>German Gas and Water Association (DVGW)</li><li>Steel Institute (VDEh)</li><li>German Association for Water Management, Sewage and Waste (DWA) eV</li><li>Association of Electrical Engineering, Electronics and Information Technology (VDE)</li><li>German Scientific Society for Sustainable Energy Sources, Mobility and Carbon Cycles (DGMK)</li><li>Association of German Foundry Specialists (VDG)</li><li>Society for Metallurgists and Miners (GDMB)</li><li>Association of German Engineers (VDI)</li><li>Society for Biochemistry and Molecular Biology (GBM)</li></ul>"
+        }
+      ],
+      "costs": [{ "type": "regular", "amount": 110 }]
+    },
+    {
+      "id": 3,
+      "localization": [
+        {
+          "locale": "de",
+          "name": "Ordentliche Doppelmitglieder GÖCH",
+          "slug": "ordentliche-doppelmitglieder-goech",
+          "description": "<p>(Wohnsitz in Österreich)</p>"
+        },
+        {
+          "locale": "en",
+          "name": "Ordinary double members GÖCH",
+          "slug": "ordinary-double-members-goech",
+          "description": "<p>(resident in Austria)</p>"
+        }
+      ],
+      "costs": [{ "type": "regular", "amount": 70 }]
+    },
+    {
+      "id": 4,
+      "localization": [
+        {
+          "locale": "de",
+          "name": "Mitglieder im Ruhestand",
+          "slug": "mitglieder-im-ruhestand",
+          "description": "<p>(auf Antrag; ab Vollendung des 58. Lebensjahres bei Vorruhestand)</p>"
+        },
+        {
+          "locale": "en",
+          "name": "retired members",
+          "slug": "retired-members",
+          "description": "<p>(upon application; from the age of 58 in the case of early retirement)</p>"
+        }
+      ],
+      "costs": [{ "type": "regular", "amount": 70 }]
+    },
+    {
+      "id": 5,
+      "localization": [
+        {
+          "locale": "de",
+          "name": "Lebenslange Mitgliedschaft",
+          "slug": "lebenslange-mitgliedschaft",
+          "description": "<p>Personen, die seit mindestens 25 Jahren Mitglied in der GDCh sind, können auf Antrag durch die Zahlung eines Einmalbetrages eine lebenslange Mitgliedschaft in der GDCh erwerben. Die Höhe des Einmalbetrages hängt von unterschiedlichen Parametern wie z. B. das Lebensalter zum Zeitpunkt der Antragsstellung ab. Die individuelle Berechnung erfolgt über nachfolgenden Link: <a href=\"/gdch/mitgliedschaft/lebenslange-mitgliedschaft.html\">https://www.gdch.de/lebenslang</a></p>"
+        },
+        {
+          "locale": "en",
+          "name": "Lifetime membership",
+          "slug": "lifetime-membership",
+          "description": "<p>Persons who have been a member of the GDCh for at least 25 years can apply for lifelong membership in the GDCh by paying a one-time fee. The amount of the one-off amount depends on various parameters such as B. the age at the time of application. The individual calculation takes place via the following link: <a href=\"/gdch/membership/lifetime-membership.html\">https://www.gdch.de/lebenslang</a></p>"
+        }
+      ],
+      "costs": [{ "type": "individual", "amount": 0 }]
+    },
+    {
+      "id": 6,
+      "localization": [
+        {
+          "locale": "de",
+          "name": "Stellungslose ordentliche Mitglieder",
+          "slug": "stellungslose-ordentliche-mitglieder",
+          "description": "<p>(auf Antrag) Bitte eine Bescheinigung der Agentur für Arbeit beifügen.<br> Das erste Jahr der Stellungslosigkeit ist beitragsfrei.</p>"
+        },
+        {
+          "locale": "en",
+          "name": "Unemployed ordinary members",
+          "slug": "unemployed-ordinary-members",
+          "description": "<p>(upon application) Please enclose a certificate from the Employment Agency.<br> The first year of unemployment is free of contributions.</p>"
+        }
+      ],
+      "costs": [{ "type": "regular", "amount": 30 }]
+    },
+    {
+      "id": 7,
+      "localization": [
+        {
+          "locale": "de",
+          "name": "Jungmitglieder",
+          "slug": "jungmitglieder",
+          "description": "<p>Als Jungmitglieder werden geführt: ordentliche GDCh-Mitglieder bis drei Jahre nach erfolgter Promotion bzw. bei nicht promovierten Kollegen/Kolleginnen bis drei Jahre nach Eintritt in das Berufsleben. Anträge auf Führung als Jungmitglied sind an die GDCh-Geschäftsstelle mit Angabe des Promotionsdatums bzw. des Beginns der Berufstätigkeit zu richten</p><p>Abkommen GDCh/VAA-Doppelmitgliedschaft<br> <strong>Antrag nur möglich</strong> <strong>in den ersten 5 Jahren nach Eintritt in das Berufsleben</strong>.<br> Jahresbeitrag GDCh € 50,00</p><p>Als Jungmitglieder GDCh/VAA werden geführt: ordentliche GDCh-Mitglieder bis zwei Jahre nach erfolgter Promotion bzw. bei nicht promovierten Kollegen/Kolleginnen bis zwei Jahre nach Eintritt in das Berufsleben. Anträge auf Führung als Jungmitglied sind an die GDCh-Geschäftsstelle mit Angabe des Promotionsdatums bzw. des Beginns der Berufstätigkeit zu richten</p>"
+        },
+        {
+          "locale": "en",
+          "name": "Young members",
+          "slug": "young-members",
+          "description": "<p>The following are listed as young members: full GDCh members up to three years after completing their doctorate or, for colleagues who do not have a doctorate, up to three years after entering professional life. Applications for leadership as a young member should be sent to the GDCh Office, stating the date of the doctorate or the start of professional activity</p><p>GDCh/VAA dual membership agreement<br> <strong>Application only possible</strong> <strong>in the first 5 years after starting working life</strong>.<br> Annual fee GDCh € 50.00</p><p>The following are listed as young members of the GDCh/VAA: full GDCh members up to two years after completing their doctorate or, for colleagues who do not have a doctorate, up to two years after entering professional life. Applications for leadership as a young member should be sent to the GDCh Office, stating the date of the doctorate or the start of professional activity</p>"
+        }
+      ],
+      "costs": [
+        { "type": "regular", "amount": 70 },
+        { "type": "dual-vaa", "amount": 50 }
+      ]
+    },
+    {
+      "id": 8,
+      "localization": [
+        {
+          "locale": "de",
+          "name": "Studentische Mitglieder",
+          "slug": "studentische-mitglieder",
+          "description": "<p>Der studentische Status kann bis zum Abschluss der Promotion jedoch maximal bis zur Vollendung des 31. Lebensjahres in Anspruch genommen werden. In begründeten Einzelfällen kann auf Antrag der Status über das 31. Lebensjahr hinaus gewährt werden. Der Status wird nur bis zum Eintritt in das Berufsleben bzw. bis zum Abschluss der Promotion gewährt. Ein berufsbegleitendes Studium bzw. ein zweites, berufsqualifizierendes Studium begründet nicht den Anspruch einer studentischen Mitgliedschaft. Dem Antrag auf studentische Mitgliedschaft ist der Studentenausweis beizufügen.</p><p>Abkommen GDCh/VAA-Doppelmitgliedschaft (auf Antrag)</p><p>Die studentische GDCh/VAA-Doppelmitgliedschaft ist mit keinen zusätzlichen Kosten verbunden. Die VAA-Mitgliedschaft für Studierende ist in dem Mitgliedsbeitrag zur GDCh in Höhe von € 30,00 enthalten. Dies ändert sich erst mit der Beendigung meines Studiums - spätestens mit der Vollendung des 31. Lebensjahres - und dem Übergang zum GDCh/VAA-Jungmitglied.</p><p>*Studentische Mitglieder und andere Mitglieder in der Ausbildung sind im ersten Kalenderjahr beitragsfrei. Das bedeutet, dass bei Eintritt vor dem 30. Juni der erste Jahresbeitrag in Höhe von 30 Euro nicht erhoben wird und bei Eintritt nach dem 1. Juli das aktuelle und das darauffolgende Kalenderjahr beitragsfrei bleiben.</p>"
+        },
+        {
+          "locale": "en",
+          "name": "Student members",
+          "slug": "student-members",
+          "description": "<p>However, student status can only be used until you have completed your doctorate until you reach the age of 31. In justified individual cases, status can be granted beyond the age of 31 upon application. The status is only granted until you start working life or complete your doctorate. A part-time course of study or a second, professionally qualifying course of study does not justify the right to student membership. The student ID card must be enclosed with the application for student membership.</p><p>GDCh/VAA dual membership agreement (upon application)</p><p>Student GDCh/VAA dual membership does not involve any additional costs. VAA membership for students is included in the GDCh membership fee of €30.00. This will only change when I finish my studies - at the latest when I turn 31 - and transition to becoming a GDCh/VAA young member.</p><p>*Student members and other members in training are free of charge in the first calendar year. This means that if you join before June 30th, the first annual fee of 30 euros will not be charged and if you join after July 1st, the current and the following calendar year will remain free of charge.</p>"
+        }
+      ],
+      "costs": [{ "type": "regular", "amount": 30 }]
+    },
+    {
+      "id": 9,
+      "localization": [
+        {
+          "locale": "de",
+          "name": "Mitglieder in der Ausbildung",
+          "slug": "mitglieder-in-der-ausbildung",
+          "description": "<p>Jahresbeitrag € 30,00 (erstes Kalenderjahr beitragsfrei*)</p><p>Dieser Status gilt für andere an den chemischen und molekularen Wissenschaften interessierten Personen, die sich in beruflicher oder schulischer Ausbildung befinden, d.h. nicht als Student an einer Hochschule eingeschrieben sind. Dem Antrag ist ein Ausbildungsnachweis beizufügen.</p>"
+        },
+        {
+          "locale": "en",
+          "name": "Members in Training",
+          "slug": "members-in-training",
+          "description": "<p>Annual fee € 30.00 (first calendar year free of charge*)</p><p>This status applies to other persons interested in the chemical and molecular sciences who are in professional or academic training, ie not enrolled as a student in a university. Proof of education must be attached to the application.</p>"
+        }
+      ],
+      "costs": [{ "type": "regular", "amount": 30 }]
+    },
+    {
+      "id": 10,
+      "localization": [
+        {
+          "locale": "de",
+          "name": "Assoziierte Mitglieder",
+          "slug": "assoziierte-mitglieder",
+          "description": "<p>Jahresbeitrag € 40,00</p><p>können Personen des In- und Auslands werden, deren Ausbildung nicht aus dem Bereich der Chemie und angrenzender Gebiete stammt und/oder die keine Tätigkeit in diesem Bereich ausüben und die nur an der Mitarbeit in einer der Fachgruppen und/oder der Sektionen der Gesellschaft interessiert sind.</p>"
+        },
+        {
+          "locale": "en",
+          "name": "Associate Members",
+          "slug": "associate-members",
+          "description": "<p>Annual contribution € 40.00 can be paid by people from Germany and abroad whose training does not come from the field of chemistry and related areas and/or who do not work in this field and who are only interested in working in one of the Divisions and/or the sections of society are interested.</p>"
+        }
+      ],
+      "costs": [{ "type": "regular", "amount": 40 }]
+    },
+    {
+      "id": 11,
+      "localization": [
+        {
+          "locale": "de",
+          "name": "Sonderbeitrag",
+          "slug": "sonderbeitrag",
+          "description": "<p>Jahresbeitrag € 70,00</p><p>Der vergünstigte Sonderbeitrag kommt auf Antrag bei ordentlichen Mitgliedern zur Anwendung, die vorübergehend Einkommensminderungen hinnehmen müssen. Weiterhin gilt der Sonderstatus für Lebensgemeinschaften, wobei beide Personen GDCh-Mitglied sein müssen, jedoch nur ein Exemplar der Mitgliederzeitschrift Nachrichten aus der Chemie (NCh) bezogen wird. Eine der beiden Personen muss ordentliches, voll zahlendes GDCh-Mitglied sein.</p>"
+        },
+        {
+          "locale": "en",
+          "name": "Special Contribution",
+          "slug": "special-contribution",
+          "description": "<p>Annual fee € 70.00</p><p>The discounted special contribution applies to ordinary members who have to accept a temporary reduction in income upon application. Furthermore, the special status for partnerships applies, whereby both persons must be GDCh members, but only one copy of the membership magazine ' Nachrichten aus der Chemie (NCh) is obtained. One of the two persons must be a full paying GDCh member.</p>"
+        }
+      ],
+      "costs": [{ "type": "regular", "amount": 70 }]
+    },
+    {
+      "id": 12,
+      "localization": [
+        {
+          "locale": "de",
+          "name": "Mitglieder International",
+          "slug": "mitglieder-international",
+          "description": "<p>Jahresbeitrag € 90,00</p><p><br>Personen, die im Ausland leben und bis dato nur Mitglied in einer anderen chemischen Fachgesellschaft im Ausland sind, zu der die GDCh freundschaftliche Beziehungen pflegt, können auf Antrag den Status eines Mitglieds International erwerben. Gleiches gilt für ausländische Personen, die im Rahmen einer Arbeitnehmerentsendung vorübergehend in Deutschland leben.</p>"
+        },
+        {
+          "locale": "en",
+          "name": "Members International",
+          "slug": "members-international",
+          "description": "<p>Annual fee € 90.00</p><p><br>People who live abroad and are currently only members of another chemical society abroad with which the GDCh maintains friendly relations can apply to acquire the status of an international member. The same applies to foreign nationals who are temporarily living in Germany as part of a secondment.</p>"
+        }
+      ],
+      "costs": [{ "type": "regular", "amount": 90 }]
+    },
+    {
+      "id": 13,
+      "localization": [
+        {
+          "locale": "de",
+          "name": "Fördernde Mitglieder",
+          "slug": "foerdernde-mitglieder",
+          "description": "<p>Grundbeitrag Firmen<br> auf Anfrage<br> <br>Grundbeitrag Institute und Bibliotheken<br> € 152,00</p>"
+        },
+        {
+          "locale": "en",
+          "name": "Supporting Members",
+          "slug": "supporting-members",
+          "description": "<p>Basic contribution companies<br>on request<br><br>Basic contribution institutes and libraries<br>€ 152.00</p>"
+        }
+      ],
+      "costs": [
+        { "type": "company", "amount": null },
+        { "type": "institute", "amount": 152 }
+      ]
+    }
+  ]
+}

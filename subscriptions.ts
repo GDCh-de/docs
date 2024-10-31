@@ -8,7 +8,6 @@ type TContributionClassLocalization = {
   locale: "de" | "en";
   name: string;
   description: string;
-  benefits?: { name: string; description: string }[];
 };
 type TContributionClassOptionLocalization = {
   locale: "de" | "en";

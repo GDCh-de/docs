@@ -55,7 +55,7 @@ export const subscriptions: TSubscriptions = {
           locale: "en",
           name: "Student members",
           description:
-            "<p>However, student status can only be used until you have completed your doctorate until you reach the age of 31. In justified individual cases, status can be granted beyond the age of 31 upon application. The status is only granted until you start working life or complete your doctorate. A part-time course of study or a second, professionally qualifying course of study does not justify the right to student membership. The student ID card must be enclosed with the application for student membership.</p>",
+            "<p>The student status can be utilised until the completion of the doctorate, but at most until the age of 31. In justified individual cases, status can be granted beyond the age of 31 upon application. The status is only granted until entry into professional life or until completion of the doctorate. Part-time studies or a second, professionally qualifying degree programme do not justify the entitlement to student membership. The student ID card must be enclosed with the application for student membership.</p>",
         },
       ],
       options: [

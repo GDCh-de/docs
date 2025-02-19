@@ -1,3 +1,5 @@
+[← Infrastruktur](/GDCh-de/docs/blob/main/infrastructure.md)
+
 # Hygraph
 
 ## Datentypen

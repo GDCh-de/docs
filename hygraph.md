@@ -1,4 +1,4 @@
-[← Infrastruktur](/GDCh-de/docs/blob/main/infrastructure.md)
+[← Infrastruktur](/infrastructure.md)
 
 # Hygraph
 

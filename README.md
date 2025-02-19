@@ -1,3 +1,4 @@
 # Dokumentation
 
-- [Hygraph](hygraph.md)
+- [Infrastrukturübersicht](infrastructure.md)
+- 

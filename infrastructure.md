@@ -7,7 +7,7 @@ graph TD;
   Tango --> Heroku2[Heroku NCh-Importer] --> Hygraph;
   Twitter --> Heroku3[Heroku Twitter-Importer] --> Hygraph;
   Hygraph --> OpenData --> Website[<a href='https://gdch.de'>Website</a>];
-  Hygraph --> Brevo
+  NCh(XML) --> Hygraph --> Brevo
 ```
 
 ## Überschrift

@@ -8,8 +8,6 @@ graph TD;
   Ventari --> Sage;
   Hygraph --> Cron --> Hygraph;
   ZAM --> Hygraph;
-  Tango --> Heroku2[Heroku NCh-Importer] --> Hygraph;
-  Twitter --> Heroku3[Heroku Twitter-Importer] --> Hygraph;
   Hygraph --> OpenData --> Website[<a href='https://gdch.de'>Website</a>];
   NCh --> Hygraph --> Brevo
 ```

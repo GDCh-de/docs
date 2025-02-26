@@ -1,12 +1,9 @@
 # Infrastruktur
 
 ```mermaid
-%%{ init: {
-    'theme': 'base',
-    'themeVariables':
-        { 'fontSize': '12px', 'fontFamily': 'Inter'}
-} }%%
 graph TD;
+  AAA[Sample<br>text]:::FixFont;
+  classDef FixFont font-size:11px
   Hygraph[<a href='/GDCh-de/docs/blob/main/hygraph.md'>Hygraph</a>] --> Auth0[<a href='/GDCh-de/docs/blob/main/Auth0.md'>Auth0</a>] --> App[<a href='/GDCh-de/docs/blob/main/App.md'>App</a>] --> Hygraph --> App;
   ZAM[<a href='/GDCh-de/docs/blob/main/ZAM.md'>ZAM</a>] --> Meta-Dok[<a href='/GDCh-de/docs/blob/main/Meta-Dok.md'>Meta-Dok</a>];
   ZAM --> Sage[<a href='/GDCh-de/docs/blob/main/Sage.md'>Sage</a>] --> DATEV[<a href='/GDCh-de/docs/blob/main/DATEV.md'>DATEV</a>];

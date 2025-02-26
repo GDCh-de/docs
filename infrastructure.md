@@ -2,7 +2,7 @@
 
 ```mermaid
 graph TD;
-  Hygraph[<a href='/GDCh-de/docs/blob/main/hygraph.md'>Hygraph</a>] --> Auth0 --> App[<a href='https://gdch.app'>gdch.app</a>] --> Hygraph;
+  Hygraph[<a href='/GDCh-de/docs/blob/main/hygraph.md'>Hygraph</a>] --> Auth0 --> App[<a href='https://gdch.app'>gdch.app</a>] --> Hygraph --> App;
   ZAM --> Heroku1[Heroku Mitgliederimporter] --> Hygraph;
   Tango --> Heroku2[Heroku NCh-Importer] --> Hygraph;
   Twitter --> Heroku3[Heroku Twitter-Importer] --> Hygraph;

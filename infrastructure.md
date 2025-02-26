@@ -11,7 +11,7 @@ graph TD;
   Hygraph --> Cron[<a href='/GDCh-de/docs/blob/main/CRON.md'>CRON</a>] --> Hygraph;
   ZAM --> Hygraph;
   Hygraph --> OpenData[<a href='/GDCh-de/docs/blob/main/OpenData.md'>OpenData</a>] --> Website[<a href='/GDCh-de/docs/blob/main/Website.md'>Website</a>];
-  NCh[<a href='/GDCh-de/docs/blob/main/NCh.md'>NCh</a>] --> Hygraph --> Brevo[<a href='/GDCh-de/docs/blob/main/Brevo.md'>Brevo</a>]
+  NCh[<a href='/GDCh-de/docs/blob/main/NCh.md'>NCh</a>] -->|XML| Hygraph --> Brevo[<a href='/GDCh-de/docs/blob/main/Brevo.md'>Brevo</a>]
 ```
 
 ## Überschrift

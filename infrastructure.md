@@ -8,7 +8,7 @@ graph TD;
   Ventari --> Sage;
   Hygraph --> Cron --> Hygraph;
   ZAM --> Hygraph;
-  Hygraph --> OpenData --> Website[<a href='https://gdch.de'>Website</a>];
+  Hygraph --> OpenData --> Website[<a href='https://www.gdch.de'>Website</a>];
   NCh --> Hygraph --> Brevo
 ```
 

@@ -6,7 +6,7 @@ graph TD;
   ZAM --> Heroku1[Heroku Mitgliederimporter] --> Hygraph;
   Tango --> Heroku2[Heroku NCh-Importer] --> Hygraph;
   Twitter --> Heroku3[Heroku Twitter-Importer] --> Hygraph;
-  Hygraph --> OpenData --> Website[<a href='https://gdch.de'>Website</a>;
+  Hygraph --> OpenData --> Website[<a href='https://gdch.de'>Website</a>];
   OpenData --> jcf.io
 ```
 

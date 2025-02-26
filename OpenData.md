@@ -12,7 +12,7 @@
 
 ## Dokumentation
 
-[hygraph.com/docs](https://hygraph.com/docs)
+
 
 ## Spezifika
 

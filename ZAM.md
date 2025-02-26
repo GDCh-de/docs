@@ -1,6 +1,6 @@
 [← Infrastruktur](/infrastructure.md)
 
-# DATEV
+# ZAM
 
 ## Datentypen
 

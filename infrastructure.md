@@ -2,7 +2,7 @@
 
 ```mermaid
 graph TD;
-  Hygraph[<a href='/GDCh-de/docs/blob/main/hygraph.md'>Hygraph</a>] --> Auth0[<a href='https://auth0.com/docs'>Auth0</a>] --> App[<a href='https://gdch.app'>App</a>] --> Hygraph --> App;
+  Hygraph[<a href='/GDCh-de/docs/blob/main/hygraph.md'>Hygraph</a>] --> Auth0[<a href='/GDCh-de/docs/blob/main/Auth0.md'>Auth0</a>] --> App[<a href='https://gdch.app'>App</a>] --> Hygraph --> App;
   ZAM[<a href='/GDCh-de/docs/blob/main/ZAM.md'>ZAM</a>] --> Meta-Dok;
   ZAM --> Sage[<a href='/GDCh-de/docs/blob/main/Sage.md'>Sage</a>] --> DATEV[<a href='/GDCh-de/docs/blob/main/DATEV.md'>DATEV</a>];
   Ventari[<a href='/GDCh-de/docs/blob/main/Ventari.md'>Ventari</a>] --> Sage;

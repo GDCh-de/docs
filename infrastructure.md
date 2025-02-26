@@ -6,7 +6,7 @@ graph TD;
   ZAM --> Meta-Dok;
   ZAM --> Sage --> DATEV[<a href='/GDCh-de/docs/blob/main/DATEV.md'>DATEV</a>];
   Ventari --> Sage;
-  Hygraph --> Cron --> Hygraph;
+  Hygraph --> Cron[<a href='/GDCh-de/docs/blob/main/CRON.md'>CRON</a>] --> Hygraph;
   ZAM --> Hygraph;
   Hygraph --> OpenData --> Website[<a href='https://www.gdch.de'>Website</a>];
   NCh --> Hygraph --> Brevo

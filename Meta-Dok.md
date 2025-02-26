@@ -1,6 +1,7 @@
 [← Infrastruktur](/infrastructure.md)
 
 # Meta-Dok
+https://md-ml.meta-level.de/meta-dok/
 
 ## Datentypen
 
@@ -12,7 +13,7 @@
 
 ## Dokumentation
 
-[hygraph.com/docs](https://hygraph.com/docs)
+
 
 ## Spezifika
 

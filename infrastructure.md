@@ -8,7 +8,7 @@ graph TD;
   Ventari[<a href='/GDCh-de/docs/blob/main/Ventari.md'>Ventari</a>] --> Sage;
   Hygraph --> Cron[<a href='/GDCh-de/docs/blob/main/CRON.md'>CRON</a>] --> Hygraph;
   ZAM --> Hygraph;
-  Hygraph --> OpenData --> Website[<a href='https://www.gdch.de'>Website</a>];
+  Hygraph --> OpenData[<a href='/GDCh-de/docs/blob/main/OpenData.md'>OpenData</a>] --> Website[<a href='https://www.gdch.de'>Website</a>];
   NCh[<a href='/GDCh-de/docs/blob/main/NCh.md'>NCh</a>] --> Hygraph --> Brevo[<a href='/GDCh-de/docs/blob/main/Brevo.md'>Brevo</a>]
 ```
 

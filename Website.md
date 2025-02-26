@@ -1,6 +1,7 @@
 [← Infrastruktur](/infrastructure.md)
 
 # Website
+https://www.gdch.de/
 
 ## Datentypen
 
@@ -12,7 +13,7 @@
 
 ## Dokumentation
 
-[hygraph.com/docs](https://hygraph.com/docs)
+
 
 ## Spezifika
 

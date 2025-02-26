@@ -9,7 +9,7 @@ graph TD;
   Hygraph --> Cron[<a href='/GDCh-de/docs/blob/main/CRON.md'>CRON</a>] --> Hygraph;
   ZAM --> Hygraph;
   Hygraph --> OpenData --> Website[<a href='https://www.gdch.de'>Website</a>];
-  NCh[<a href='https://www.gdch.de/publikationen/nachrichten-aus-der-chemie.html'>NCh</a>] --> Hygraph --> Brevo[<a href='https://developers.brevo.com/docs/getting-started'>Brevo</a>]
+  NCh[<a href='/GDCh-de/docs/blob/main/NCh.md'>NCh</a>] --> Hygraph --> Brevo[<a href='https://developers.brevo.com/docs/getting-started'>Brevo</a>]
 ```
 
 ## Überschrift

@@ -5,11 +5,7 @@ https://md-ml.meta-level.de/meta-dok/
 
 ## Datentypen
 
-- Personen
-- Artikel
-- Veranstaltungen
-- Organisationseinheiten
-- Assets
+
 
 ## Dokumentation
 
@@ -17,5 +13,3 @@ https://md-ml.meta-level.de/meta-dok/
 
 ## Spezifika
 
-- GraphQL-Datenbank
-- SaaS

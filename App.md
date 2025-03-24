@@ -5,11 +5,7 @@ https://gdch.app/
 
 ## Datentypen
 
-- Personen
-- Artikel
-- Veranstaltungen
-- Organisationseinheiten
-- Assets
+
 
 ## Dokumentation
 
@@ -17,5 +13,4 @@ https://gdch.app/
 
 ## Spezifika
 
-- GraphQL-Datenbank
-- SaaS
+

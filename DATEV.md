@@ -5,16 +5,12 @@
 ## Datentypen
 
 - Personen
-- Artikel
-- Veranstaltungen
-- Organisationseinheiten
-- Assets
+- Belegbilder
+- Buchungsdaten
 
 ## Dokumentation
 
-
+https://developer.datev.de/de/products
 
 ## Spezifika
 
-- GraphQL-Datenbank
-- SaaS

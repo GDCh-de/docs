@@ -1,7 +1,6 @@
 [← Infrastruktur](/infrastructure.md)
 
 # NCh
-https://www.gdch.de/publikationen/nachrichten-aus-der-chemie.html
 
 ## Datentypen
 
@@ -9,8 +8,6 @@ https://www.gdch.de/publikationen/nachrichten-aus-der-chemie.html
 
 ## Dokumentation
 
+Der Importer selbst wird im Code dokumentiert.
 
-
-## Spezifika
-
-
+https://www.gdch.de/publikationen/nachrichten-aus-der-chemie.html

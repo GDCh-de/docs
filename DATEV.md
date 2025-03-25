@@ -11,6 +11,3 @@
 ## Dokumentation
 
 https://developer.datev.de/de/products
-
-## Spezifika
-

@@ -1,16 +1,13 @@
 [← Infrastruktur](/infrastructure.md)
 
 # Website
+
 https://www.gdch.de/
 
 ## Datentypen
 
-
+Alles, was auf der Website ist.
 
 ## Dokumentation
 
-
-
-## Spezifika
-
-
+Ist eine Typo3-Website.

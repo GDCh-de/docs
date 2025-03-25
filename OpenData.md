@@ -2,14 +2,10 @@
 
 # OpenData
 
-## Datentypen
+Was ## Datentypen
 
-
+Siehe [App](/App.md)
 
 ## Dokumentation
 
-
-
-## Spezifika
-
-
+Next.js-Projekt für spezielle Aufgaben, z.B. Daten für Website liefern (Ajax).

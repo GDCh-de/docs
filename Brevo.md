@@ -5,12 +5,10 @@
 ## Datentypen
 
 - Personen
-
+- E-Mail
+- Telefon
+- Interaktionen
 
 ## Dokumentation
 
 https://developers.brevo.com/
-
-## Spezifika
-
-

@@ -1,4 +1,3 @@
 # Dokumentation
 
 - [Infrastrukturübersicht](infrastructure.md)
-- 

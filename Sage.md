@@ -4,12 +4,8 @@
 
 ## Datentypen
 
-
+ERP, das nur Rechnungen verarbeitet.
 
 ## Dokumentation
 
-
-
-## Spezifika
-
-
+https://www.sage.com/de-de/

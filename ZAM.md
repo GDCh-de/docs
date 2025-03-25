@@ -5,11 +5,12 @@
 ## Datentypen
 
 - Personen
+- Strukturen
+- Adressen
+- Telefonnummern
+- E-Mails
+- Funktionen
 
 ## Dokumentation
 
-
-
-## Spezifika
-
-
+Zentrales Adressmanagement der Firma Lauer und Karrenbauer.

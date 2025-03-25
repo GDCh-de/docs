@@ -1,6 +1,6 @@
 [← Infrastruktur](/infrastructure.md)
 
-# Hygraph
+# Strapi
 
 ## Datentypen
 
@@ -41,9 +41,10 @@
 
 ## Dokumentation
 
-[hygraph.com/docs](https://hygraph.com/docs)
+[docs.strapi.io](https://docs.strapi.io)
 
 ## Spezifika
 
 - GraphQL-Datenbank
 - SaaS
+- Open Source

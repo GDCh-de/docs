@@ -6,10 +6,10 @@ graph TD;
   NCh[<a href='/GDCh-de/docs/blob/main/NCh.md'>NCh</a>] --> |XML| Strapi;
   Strapi --> Brevo[<a href='/GDCh-de/docs/blob/main/Brevo.md'>Brevo</a>];
   Strapi --> OpenData[<a href='/GDCh-de/docs/blob/main/OpenData.md'>OpenData</a>];
-  Strapi(<a href='/GDCh-de/docs/blob/main/Strapi.md'>Strapi</a>) --> Auth0[<a href='/GDCh-de/docs/blob/main/Auth0.md'>Auth0</a>] --> WebsiteNG((<a href='/GDCh-de/docs/blob/main/WebsiteNG.md'>NG-Website</a>));
+  Strapi(<a href='/GDCh-de/docs/blob/main/Strapi.md'>🟩 Strapi</a>) --> Auth0[<a href='/GDCh-de/docs/blob/main/Auth0.md'>Auth0</a>] --> WebsiteNG((<a href='/GDCh-de/docs/blob/main/WebsiteNG.md'>⚪️ NG-Website</a>));
   Ventari[<a href='/GDCh-de/docs/blob/main/Ventari.md'>Ventari</a>] --> |Rechnungen| Odoo;
   Odoo --> WebsiteNG;
-  Odoo{<a href='/GDCh-de/docs/blob/main/Odoo.md'>Odoo</a>} --> |Ausgangsrechnungen| DATEV[<a href='/GDCh-de/docs/blob/main/DATEV.md'>DATEV</a>];
+  Odoo{<a href='/GDCh-de/docs/blob/main/Odoo.md'>🔷 Odoo</a>} --> |Ausgangsrechnungen| DATEV[<a href='/GDCh-de/docs/blob/main/DATEV.md'>DATEV</a>];
   Strapi <--> WebsiteNG;
   Strapi <--> | ??? | Odoo;
 ```
@@ -17,7 +17,6 @@ graph TD;
 ## ⚪️ Änderungen Website
 
 - **WebsiteNG**: neue Website der GDCh basierend auf Next.js
-- **Strapi**: neues Headless CMS der GDCh
 
 Für die Funktionalität der aktuellen Website und der App zusammen, macht bestimmte Funktionen der Open-Data-Plattform überflüssig.
 
@@ -27,6 +26,12 @@ Für die Funktionalität der aktuellen Website und der App zusammen, macht besti
 
 Odoo als ERP-System ersetzt Meta-Dok, ZAM und Sage.
 
+## 🟩 Änderungen Strapi
+
+- **Strapi**: neues Headless CMS der GDCh
+
+Strapi ersetzt Hygraph.
+
 ## Ersetzte Komponenten
 
 - ~~**ZAM**: zentrales Adressmanagement der Firma Lauer und Karrenbauer~~
@@ -34,6 +39,7 @@ Odoo als ERP-System ersetzt Meta-Dok, ZAM und Sage.
 - ~~**App**: interne Anwendung~~
 - ~~**Sage**: Buchhaltungssoftware~~
 - ~~**Website**: (noch) Website der GDCh~~
+- ~~**Hygraph**: Headless CMS~~
 
 ## Bestehende Komponenten
 

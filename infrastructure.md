@@ -2,6 +2,7 @@
 
 ```mermaid
 graph TD;
+  Zoolo[<a href='/GDCh-de/docs/blob/main/Zoolo.md'>Zoolo</a>] --> |Eingangsrechnungen| DATEV
   ZAM[<a href='/GDCh-de/docs/blob/main/ZAM.md'>ZAM</a>] --> Meta-Dok[<a href='/GDCh-de/docs/blob/main/Meta-Dok.md'>Meta-Dok</a>];
   ZAM --> Sage[<a href='/GDCh-de/docs/blob/main/Sage.md'>Sage</a>] --> |Ausgangsrechnungen| DATEV[<a href='/GDCh-de/docs/blob/main/DATEV.md'>DATEV</a>];
   Ventari[<a href='/GDCh-de/docs/blob/main/Ventari.md'>Ventari</a>] --> Sage;

@@ -11,7 +11,7 @@ graph TD;
   Hygraph[<a href='/GDCh-de/docs/blob/main/hygraph.md'>Hygraph</a>] --> Auth0[<a href='/GDCh-de/docs/blob/main/Auth0.md'>Auth0</a>] --> App[<a href='/GDCh-de/docs/blob/main/App.md'>App</a>];
   Hygraph <--> App;
   ZAM --> Hygraph;
-  ZAM --> DATEV[<a href='/GDCh-de/docs/blob/main/DATEV.md'>DATEV</a>];
+  ZAM --> |Stammdaten| DATEV;
   Hygraph --> OpenData[<a href='/GDCh-de/docs/blob/main/OpenData.md'>OpenData</a>] --> Website[<a href='/GDCh-de/docs/blob/main/Website.md'>Website</a>];
   NCh[<a href='/GDCh-de/docs/blob/main/NCh.md'>NCh</a>] --> |XML| Hygraph;
 ```

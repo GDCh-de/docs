@@ -2,16 +2,17 @@
 
 ```mermaid
 graph TD;
-  Strapi <--> Cron[<a href='/GDCh-de/docs/blob/main/CRON.md'>CRON</a>];
+  Strapi <--> Brevo[<a href='/GDCh-de/docs/blob/main/Brevo.md'>Brevo</a>
+<a href='/GDCh-de/docs/blob/main/CRON.md'>CRON</a>
+<a href='/GDCh-de/docs/blob/main/Auth0.md'>Auth0</a>
+...];
+  Strapi(<a href='/GDCh-de/docs/blob/main/Strapi.md'>🟩 Strapi</a>) --> OpenData[<a href='/GDCh-de/docs/blob/main/OpenData.md'>OpenData</a>];
   NCh[<a href='/GDCh-de/docs/blob/main/NCh.md'>NCh</a>] --> |XML| Strapi;
-  Strapi --> Brevo[<a href='/GDCh-de/docs/blob/main/Brevo.md'>Brevo</a>];
-  Strapi --> OpenData[<a href='/GDCh-de/docs/blob/main/OpenData.md'>OpenData</a>];
-  Strapi(<a href='/GDCh-de/docs/blob/main/Strapi.md'>🟩 Strapi</a>) --> Auth0[<a href='/GDCh-de/docs/blob/main/Auth0.md'>Auth0</a>] --> WebsiteNG((<a href='/GDCh-de/docs/blob/main/WebsiteNG.md'>⚪️ NG-Website</a>));
-  Ventari[<a href='/GDCh-de/docs/blob/main/Ventari.md'>Ventari</a>] --> |Rechnungen| Odoo;
-  Odoo --> WebsiteNG;
+  WebsiteNG((<a href='/GDCh-de/docs/blob/main/WebsiteNG.md'>⚪️ NG-Website</a>)) --> Odoo;
   Odoo{<a href='/GDCh-de/docs/blob/main/Odoo.md'>🔷 Odoo</a>} --> |Ausgangsrechnungen| DATEV[<a href='/GDCh-de/docs/blob/main/DATEV.md'>DATEV</a>];
-  Strapi <--> WebsiteNG;
-  Strapi <--> | ??? | Odoo;
+  Strapi --> WebsiteNG;
+  Odoo --> Strapi;
+  Ventari[<a href='/GDCh-de/docs/blob/main/Ventari.md'>Ventari</a>] --> |Rechnungen| Odoo;
 ```
 
 ## ⚪️ Änderungen Website

@@ -30,6 +30,7 @@ Verwaltete Hosting-Accounts ohne Root-Zugriff. Im Unterschied zu den [VPS/Root-S
 | Benutzer   | Host           | Angelegt   | Speicher | Preis/Monat | Dienst                       |
 | ---------- | -------------- | ---------- | -------- | ----------- | ---------------------------- |
 | `analytic` | neso (U8)      | 2026-06-15 | 10 GB    | 6,00 €      | Matomo Analytics             |
+| `f2chem`   | sinope (U8)    | —          | 10 GB    | 6,00 €      | AG Fluorchemie (f2chem.de)   |
 | `gdch`     | shoemaker (U7) | 2019-04-03 | 10 GB    | 6,00 €      | Mitgliederstatistik          |
 | `gdchgit`  | mueller (U7)   | 2020-11-25 | 10 GB    | 6,00 €      | Cron / Hygraph-Migrator      |
 | `gdchlink` | prospero (U8)  | 2026-06-15 | 10 GB    | 6,00 €      | YOURLS-Kurzlinks (gdch.link) |
@@ -37,7 +38,7 @@ Verwaltete Hosting-Accounts ohne Root-Zugriff. Im Unterschied zu den [VPS/Root-S
 | `jpodcast` | larissa (U8)   | 2026-06-15 | 20 GB    | 9,00 €      | WordPress-Podcast (JCF)      |
 | `umfrage`  | prospero (U8)  | 2026-06-11 | 10 GB    | 6,00 €      | LimeSurvey                   |
 
-**Gesamtkosten/Monat:** ca. **44,00 €**
+**Gesamtkosten/Monat:** ca. **50,00 €**
 
 ### `analytic` — Matomo Analytics
 
@@ -46,6 +47,16 @@ Verwaltete Hosting-Accounts ohne Root-Zugriff. Im Unterschied zu den [VPS/Root-S
 - **Domains:** `analytics.gdch.app`, `analytic.uber.space`
 - **Beschreibung:** Matomo-Instanz für Web-Analytics.
 - **SSH:** `ssh analytic@analytic.uber.space`
+
+---
+
+### `f2chem` — AG Fluorchemie
+
+- **Host:** sinope (U8)
+- **Domains:** `f2chem.de`, `www.f2chem.de`, `f2chem.uber.space`
+- **Beschreibung:** Website der Arbeitsgemeinschaft Fluorchemie unter [f2chem.de](https://f2chem.de).
+- **Kontakt:** Frank Kemnitz von Heyden — [frank.kemnitz@vonheyden.de](mailto:frank.kemnitz@vonheyden.de)
+- **SSH:** `ssh f2chem@f2chem.uber.space`
 
 ---
 
